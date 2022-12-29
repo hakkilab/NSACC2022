@@ -1,0 +1,45 @@
+[
+{"signature": "DIRC", "version": 2, "entries": 19}
+,
+{"entry": 1, "ctime_seconds": 1659615623, "ctime_nanoseconds": 331164165, "mtime_seconds": 1659615623, "mtime_nanoseconds": 331164165, "dev": 66307, "ino": 1050035, "mode": 33261, "uid": 0, "gid": 0, "size": 487, "sha1": "fc46c46e55ad48869f4b91c2ec8756e92cc01057", "flags": 10, "assume-valid": false, "extended": false, "stage": [false, false], "name": "Dockerfile"}
+,
+{"entry": 2, "ctime_seconds": 1659615623, "ctime_nanoseconds": 331164165, "mtime_seconds": 1659615623, "mtime_nanoseconds": 331164165, "dev": 66307, "ino": 1050036, "mode": 33261, "uid": 0, "gid": 0, "size": 200, "sha1": "dd5520ca788a63f9ac7356a4b06bd01ef708a196", "flags": 7, "assume-valid": false, "extended": false, "stage": [false, false], "name": "Pipfile"}
+,
+{"entry": 3, "ctime_seconds": 1659615623, "ctime_nanoseconds": 331164165, "mtime_seconds": 1659615623, "mtime_nanoseconds": 331164165, "dev": 66307, "ino": 1050039, "mode": 33188, "uid": 0, "gid": 0, "size": 7346, "sha1": "47709845a9b086333ee3f470a102befdd91f548a", "flags": 12, "assume-valid": false, "extended": false, "stage": [false, false], "name": "Pipfile.lock"}
+,
+{"entry": 4, "ctime_seconds": 1659615623, "ctime_nanoseconds": 331164165, "mtime_seconds": 1659615623, "mtime_nanoseconds": 331164165, "dev": 66307, "ino": 1050044, "mode": 33261, "uid": 0, "gid": 0, "size": 0, "sha1": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391", "flags": 15, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/__init__.py"}
+,
+{"entry": 5, "ctime_seconds": 1659615623, "ctime_nanoseconds": 339164326, "mtime_seconds": 1659615623, "mtime_nanoseconds": 339164326, "dev": 66307, "ino": 1050076, "mode": 33188, "uid": 0, "gid": 0, "size": 6092, "sha1": "fb4d91396e39d7f9aea0628d26acf0e4e948c7f5", "flags": 13, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/server.py"}
+,
+{"entry": 6, "ctime_seconds": 1659615623, "ctime_nanoseconds": 331164165, "mtime_seconds": 1659615623, "mtime_nanoseconds": 331164165, "dev": 66307, "ino": 1050049, "mode": 33261, "uid": 0, "gid": 0, "size": 398, "sha1": "a844f894a3ab80a4850252a81d71524f53f6a384", "flags": 22, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/404.html"}
+,
+{"entry": 7, "ctime_seconds": 1659615623, "ctime_nanoseconds": 331164165, "mtime_seconds": 1659615623, "mtime_nanoseconds": 331164165, "dev": 66307, "ino": 1050051, "mode": 33188, "uid": 0, "gid": 0, "size": 2007, "sha1": "1df0934819e5dcf59ddf7533f9dc6628f7cdcd25", "flags": 24, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/admin.html"}
+,
+{"entry": 8, "ctime_seconds": 1659615623, "ctime_nanoseconds": 331164165, "mtime_seconds": 1659615623, "mtime_nanoseconds": 331164165, "dev": 66307, "ino": 1050053, "mode": 33188, "uid": 0, "gid": 0, "size": 480, "sha1": "b9cfd98da0ac95115b1e68967504bd25bd90dc5c", "flags": 31, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/admininvalid.html"}
+,
+{"entry": 9, "ctime_seconds": 1659615623, "ctime_nanoseconds": 331164165, "mtime_seconds": 1659615623, "mtime_nanoseconds": 331164165, "dev": 66307, "ino": 1050055, "mode": 33188, "uid": 0, "gid": 0, "size": 919, "sha1": "bb830d20f197ee12c20e2e9f75a71e677c983fcd", "flags": 28, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/adminlist.html"}
+,
+{"entry": 10, "ctime_seconds": 1659615623, "ctime_nanoseconds": 335164245, "mtime_seconds": 1659615623, "mtime_nanoseconds": 335164245, "dev": 66307, "ino": 1050057, "mode": 33188, "uid": 0, "gid": 0, "size": 2043, "sha1": "5033b3048b6f351df164bae9c7760c32ee7bc00f", "flags": 23, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/base.html"}
+,
+{"entry": 11, "ctime_seconds": 1659615623, "ctime_nanoseconds": 335164245, "mtime_seconds": 1659615623, "mtime_nanoseconds": 335164245, "dev": 66307, "ino": 1050059, "mode": 33188, "uid": 0, "gid": 0, "size": 1294, "sha1": "10917973126c691eae343b530a5b34df28d18b4f", "flags": 24, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/forum.html"}
+,
+{"entry": 12, "ctime_seconds": 1659615623, "ctime_nanoseconds": 335164245, "mtime_seconds": 1659615623, "mtime_nanoseconds": 335164245, "dev": 66307, "ino": 1050061, "mode": 33188, "uid": 0, "gid": 0, "size": 692, "sha1": "fe3dcf0ca99da401e093ca614e9dcfc257276530", "flags": 23, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/home.html"}
+,
+{"entry": 13, "ctime_seconds": 1659615623, "ctime_nanoseconds": 335164245, "mtime_seconds": 1659615623, "mtime_nanoseconds": 335164245, "dev": 66307, "ino": 1050063, "mode": 33188, "uid": 0, "gid": 0, "size": 1848, "sha1": "779717af2447e24285059c91854bc61e82f6efa8", "flags": 23, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/lock.html"}
+,
+{"entry": 14, "ctime_seconds": 1659615623, "ctime_nanoseconds": 335164245, "mtime_seconds": 1659615623, "mtime_nanoseconds": 335164245, "dev": 66307, "ino": 1050065, "mode": 33188, "uid": 0, "gid": 0, "size": 455, "sha1": "0556cd1e1f584ff5182bbe6b652873c89f4ccf23", "flags": 24, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/login.html"}
+,
+{"entry": 15, "ctime_seconds": 1659615623, "ctime_nanoseconds": 335164245, "mtime_seconds": 1659615623, "mtime_nanoseconds": 335164245, "dev": 66307, "ino": 1050067, "mode": 33188, "uid": 0, "gid": 0, "size": 1282, "sha1": "56e0fe4a885b1e4eb66cda5a48ccdb85180c5eb3", "flags": 25, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/navbar.html"}
+,
+{"entry": 16, "ctime_seconds": 1659615623, "ctime_nanoseconds": 335164245, "mtime_seconds": 1659615623, "mtime_nanoseconds": 335164245, "dev": 66307, "ino": 1050069, "mode": 33261, "uid": 0, "gid": 0, "size": 412, "sha1": "ed1f5ed5bc5c8655d40da77a6cfbaed9d2a1e7fe", "flags": 31, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/unauthorized.html"}
+,
+{"entry": 17, "ctime_seconds": 1659615623, "ctime_nanoseconds": 335164245, "mtime_seconds": 1659615623, "mtime_nanoseconds": 335164245, "dev": 66307, "ino": 1050071, "mode": 33188, "uid": 0, "gid": 0, "size": 1417, "sha1": "c980bf6f5591c4ad404088a6004b69c412f0fb8f", "flags": 25, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/unlock.html"}
+,
+{"entry": 18, "ctime_seconds": 1659615623, "ctime_nanoseconds": 335164245, "mtime_seconds": 1659615623, "mtime_nanoseconds": 335164245, "dev": 66307, "ino": 1050073, "mode": 33188, "uid": 0, "gid": 0, "size": 1093, "sha1": "470d7db1c7dcfa3f36b0a16f2a9eec2aa124407a", "flags": 27, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/templates/userinfo.html"}
+,
+{"entry": 19, "ctime_seconds": 1659615623, "ctime_nanoseconds": 339164326, "mtime_seconds": 1659615623, "mtime_nanoseconds": 339164326, "dev": 66307, "ino": 1050043, "mode": 33188, "uid": 0, "gid": 0, "size": 2998, "sha1": "28726966696aa240682a7ebfc5bfbc4d820d9249", "flags": 11, "assume-valid": false, "extended": false, "stage": [false, false], "name": "app/util.py"}
+,
+{"extension": 1, "signature": "TREE", "size": 90, "data": "\u000019 1\n\u0002\u00b4\u0087H\u000ba\u0084\u00be\u00dc\"\u00e5Z\u00dc\u0087\u008f\u001dg+\u00fc-app\u000016 1\nt\u00f7B2dt\u00c5\u00e4\u00d6R0\u001b\u0088\u00a0\u0080\u00b2\u00b4\u0017\u009a\u0012templates\u000013 0\n\u00b7L\u0007\u00f2\u00fa#\u00cf\u00fe\u0019\u00ef\u008a\u00f2\u0011\u00a8 \u00f2`\u0094\u00a5;"}
+,
+{"checksum": true, "sha1": "ab4887ec743973e3b6d21b90008d4dbdd3b46931"}
+]
